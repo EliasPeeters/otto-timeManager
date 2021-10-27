@@ -1,0 +1,19 @@
+{
+  "name": "otto-timemanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "otto-timemanager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliasPeeters/otto-timeManager.git"
+  },
+  "author": "Elias Peeters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliasPeeters/otto-timeManager/issues"
+  },
+  "homepage": "https://github.com/EliasPeeters/otto-timeManager#readme"
+}
