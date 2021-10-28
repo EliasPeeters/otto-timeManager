@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/EliasPeeters/otto-timeManager/issues"
   },
-  "homepage": "https://github.com/EliasPeeters/otto-timeManager#readme"
+  "homepage": "https://github.com/EliasPeeters/otto-timeManager#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "sharp": "^0.29.2",
+    "svg-to-image": "^1.1.3"
+  }
 }

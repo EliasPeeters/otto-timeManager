@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1920 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,1700.81,-19.161)">
+        <text x="44.002px" y="340.285px" style="font-family:'Futura-Medium', 'Futura', sans-serif;font-weight:500;font-size:64px;fill:white;">18:15</text>
+    </g>
+    <g transform="matrix(1,0,0,1,1483.06,-19.161)">
+        <text x="41.596px" y="340.285px" style="font-family:'Futura-Medium', 'Futura', sans-serif;font-weight:500;font-size:64px;fill:white;">15:45</text>
+    </g>
+    <g transform="matrix(1,0,0,0.664759,32.4688,36.9712)">
+        <rect x="46.946" y="102.077" width="1773.01" height="175.361" style="fill:white;fill-opacity:0.27;"/>
+    </g>
+    <g transform="matrix(0.525369,0,0,0.623741,1560.56,33.4282)">
+        <rect x="73.498" y="67.628" width="45.05" height="280.578" style="fill:rgb(89,89,89);"/>
+    </g>
+    <g transform="matrix(0.525369,0,0,0.623741,1790.14,33.4282)">
+        <rect x="73.498" y="67.628" width="45.05" height="280.578" style="fill:rgb(89,89,89);"/>
+    </g>
+    <g transform="matrix(0.525369,0,0,0.623741,40.8012,33.4282)">
+        <rect x="73.498" y="67.628" width="45.05" height="280.578" style="fill:rgb(89,89,89);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-36.691,-19.161)">
+        <text x="61.408px" y="340.285px" style="font-family:'Futura-Medium', 'Futura', sans-serif;font-weight:500;font-size:64px;fill:white;">7:25</text>
+    </g>
+    <g transform="matrix(1,0,0,1,17.751,-37.4172)">
+        <rect x="85.332" y="167.87" width="1340.45" height="65.324" style="fill:white;"/>
+    </g>
+</svg>
